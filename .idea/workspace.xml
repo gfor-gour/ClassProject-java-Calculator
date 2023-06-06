@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfd8b750-a15e-4e27-a85d-dbdd5183bbf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/Design.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/FXMLDocument.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator/FXMLDocumentController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Calculator-2-1-classproject" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
